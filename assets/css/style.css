@@ -1096,7 +1096,3 @@ section .container {
     transform: translateX(-50%);
   }
 }
-
-.green-color {
-  color: #12d640;
-}
